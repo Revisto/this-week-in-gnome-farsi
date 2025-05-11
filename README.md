@@ -1,4 +1,4 @@
-# 👋 Welcome to the repository for the "This Week in GNOME" podcast in Farsi!
+# "This Week in GNOME" podcast in Farsi!
 
 ![This Week in GNOME - Farsi Edition](branding/this-week-in-gnome-farsi-banner.jpg)
 
